@@ -1,0 +1,29 @@
+
+#inputGroup-sizing-default {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body{
+    background-color: rgb(8, 8, 8);
+}
+
+.input-group {
+    padding: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+.col-md-6 {
+    padding-top: 20px;
+}
+
+.card-body{
+    padding-bottom: 10px;
+}
+
+.card {
+    background-color: rgb(215, 234, 240);
+}
